@@ -8,3 +8,5 @@ __pycache__/
 !data/referentiels/*.csv
 *.pkl
 .DS_Store
+!reports/*.pdf
+!reports/*.xlsx

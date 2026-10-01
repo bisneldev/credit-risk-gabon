@@ -85,7 +85,7 @@ credit-risk-gabon/
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/TON_USERNAME/credit-risk-gabon.git
+git clone https://github.com/bisneldev/credit-risk-gabon.git
 cd credit-risk-gabon
 ```
 
